@@ -1,12 +1,11 @@
-# Hey, I’m Dhyey 👋
+<p align="center">
+  <img src="assets/github-banner-image.png" alt="Dhyey Kasundra banner" width="900"/>
+</p>
 
-**BI / Analytics Engineer** focused on building **reliable reporting layers** — clean data models, clear metrics, and dashboards stakeholders can trust.  
-Core stack: **SQL • Python • Tableau/Power BI • Data Warehousing • ETL • Cloud Data Pipelines**
+# Hi, I’m **Dhyey Kasundra** 👋
 
-<!-- Optional: add a simple banner (keep it clean, not flashy).
-Upload an image to this profile README repo (e.g., /assets/banner.png) and uncomment the line below.
--->
-![banner](assets/github-banner-image.png)
+**BI / Analytics Engineer** focused on building **trustworthy reporting layers** — clean data models, clear metrics, and dashboards stakeholders can rely on.  
+**Core stack:** SQL • Python • Tableau/Power BI • Data Warehousing • ETL/ELT • Cloud Data Pipelines
 
 
 ---

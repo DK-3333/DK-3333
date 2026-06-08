@@ -63,7 +63,7 @@
 
 ---
 
-## Tech I work with (keep it focused)
+## Tech I work with
 **SQL/DB:** MySQL, PostgreSQL, Cassandra, MongoDB, Neo4j  
 **Python:** pandas, NumPy  
 **BI:** Tableau, Power BI, Excel  

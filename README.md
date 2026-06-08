@@ -1,14 +1,12 @@
 ![banner](assets/github-banner-image.png)
 
 # Hey, I’m Dhyey 👋
----
 
 ## What I work on
 - **Analytics engineering:** dimensional modeling (star schema), KPI definitions, reporting-ready datasets  
 - **Data pipelines & platforms:** ETL/ELT workflows, cloud deployments, scalable storage/query patterns  
 - **Applied analytics:** turning messy data into decision-ready insights and dashboards
 - **Technical consulting:** translating stakeholder needs into clear requirements, solution designs, and deliverables (dashboards, data workflows, and client-ready recommendations)
----
 
 ---
 

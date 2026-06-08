@@ -6,6 +6,7 @@ Core stack: **SQL • Python • Tableau/Power BI • Data Warehousing • ETL �
 <!-- Optional: add a simple banner (keep it clean, not flashy).
 Upload an image to this profile README repo (e.g., /assets/banner.png) and uncomment the line below.
 -->
-<!-- ![banner](assets/banner.png) -->
+![banner](assets/banner.png)
+
 
 ---

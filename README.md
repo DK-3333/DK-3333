@@ -73,6 +73,6 @@
 ---
 
 ## Connect
-- [![LinkedIn](https://shields.io)](https://linkedin.com/in/dhyey-kasundra-132491216)  
-- [![Email](https://shields.io)](dhyey.d.kasundra@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhyey-kasundra-132491216)
+- [![Email](https://img.shields.io/badge/Email-dhyey.d.kasundra%40gmail.com-red?logo=gmail&logoColor=white)](mailto:dhyey.d.kasundra@gmail.com)
 

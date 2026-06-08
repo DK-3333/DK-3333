@@ -33,7 +33,7 @@
 
 ### 3) Fault-Tolerant Cassandra Cluster on AWS
 - Deployed a **2-node Cassandra cluster** on AWS and validated operations (health checks, access controls, backup/restore).
-- Loaded **3,724,889 rows** in ~**9m 10s** (~**6,771 rows/sec**) with **0 skipped records** and demonstrated node-failure continuity.  
+- Loaded **3,724,889 rows** in **9m 10s** (**6,771 rows/sec**) with **0 skipped records** and demonstrated node-failure continuity.  
 🔗 **Repo:** [Fault-Tolerant Cassandra Cluster on AWS](https://github.com/DK-3333/Self-Managed-and-Fault-Tolerant-Apache-Cassandra-Cluster-on-AWS-Using-NYC-TLC-Trip-Data)  
 <img src="assets/3.png" alt="Cassandra Architecture diagram" width="420">
 

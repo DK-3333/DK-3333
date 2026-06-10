@@ -41,7 +41,7 @@
 - Built a retrieval-grounded clinical Q&A pipeline using **PubMedBERT** (trained on ~**15K** MedQuAD Q&A pairs) + **Mistral-7B-Instruct**.
 - Grounded answers using offline retrieval and controlled context (~**450 tokens**) to reduce hallucination risk.  
 🔗 **Repo:** [RAG Clinical Q&A Assistant](https://github.com/DK-3333/Dr-Bot-LLM-Clinical-Assistant)  
-<img src="assets/4.png" alt="Clinical QA Pipeline diagram" width="420">
+<img src="assets/5.png" alt="Clinical QA Pipeline diagram" width="420">
 
 ---
 
@@ -49,7 +49,7 @@
 - Ran **10K Monte Carlo simulations** to estimate expected loss and **p95 tail risk** under disruption scenarios.
 - Analyzed correlated shock behavior to highlight cluster-risk vs independent failures.  
 🔗 **Repo:** [Monte Carlo Supply-Chain Risk Simulation](https://github.com/DK-3333/Monte-Carlo-Simulation-of-Supplier-Disruptions-and-Their-Impact-on-an-EV-Manufacturer-s-Production)  
-<img src="assets/5.png" alt="Monte Carlo Plot diagram" width="420">
+<img src="assets/4.png" alt="Monte Carlo Plot diagram" width="420">
 
 ---
 
